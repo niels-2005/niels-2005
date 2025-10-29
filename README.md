@@ -9,7 +9,6 @@
 ---
 
 <h2>
-  <img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" width="35" style="vertical-align: middle; margin-right: 10px;">
   <b>About Me</b>
 </h2>
 
@@ -27,7 +26,6 @@
 ---
 
 <h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25" style="vertical-align: middle; margin-right: 10px;">
   <b>Tech Stack</b>
 </h2>
 
