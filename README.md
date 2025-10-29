@@ -21,8 +21,6 @@
 - 🤖 Alongside that, I'm finalizing my **RottenBot project**, a multi-service system.  
 - 🚀 Always curious — always building. 
 
-<br><br>
-
 ---
 
 <h2>
