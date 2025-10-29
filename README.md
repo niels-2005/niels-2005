@@ -79,7 +79,7 @@
 
 - [ ] Recommendation Systems  
 - [ ] Time Series Forecasting  
-- [ ] Next.js (especially with TypeScript)
+- [ ] Next.js (especially because TypeScript)
 
 <br><br>
 
