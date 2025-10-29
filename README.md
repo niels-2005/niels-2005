@@ -9,6 +9,7 @@
 ---
 
 <h2>
+  <img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" width="35" style="vertical-align: middle; margin-right: 10px;">
   <b>About Me</b>
 </h2>
 
@@ -17,14 +18,16 @@
 - 🇩🇪 I'm **German-speaking** and passionate about understanding how intelligent systems learn.  
 - 💡 I love learning and creating **software that solves problems**.  
 - 🧠 I'm currently **planning my Bachelor’s thesis**, focusing on building an **agentic LLM learning assistant** that helps students with their study materials.  
+- ⚙️ My main interests include **AI and Software Infrastructure** — learning how to **bring ML and AI systems into production** with scalable, reliable software architectures.  
 - 🤖 Alongside that, I'm finalizing my **RottenBot project**, a multi-service system.  
 - 🚀 Always curious — always building. 
 
-<br>
+<br><br>
 
 ---
 
 <h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25" style="vertical-align: middle; margin-right: 10px;">
   <b>Tech Stack</b>
 </h2>
 
@@ -71,11 +74,18 @@
   ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 </p>
 
-<br>
-
 ---
+
+### 🧭 Future Learnings
+
+- [ ] Recommendation Systems  
+- [ ] Time Series Forecasting  
+- [ ] Next.js (especially with TypeScript)
+
+<br><br>
 
 <div align="center">
   <h2><b>Keep Learning. Keep Building. 🚀</b></h2>
