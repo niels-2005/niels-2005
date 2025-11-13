@@ -22,12 +22,6 @@
 
 - 💡 I learn fast, love deep-diving into new systems, and enjoy creating **clean, maintainable software that actually solves problems**.
 
-- 🛠️ My strengths include:
-  - **Systemic thinking & architecture awareness**
-  - **Clean, modular and maintainable software design**
-  - **Fast and deep learning of new technologies**
-  - **Analytical, calm and structured problem-solving**
-
 - 🌱 My next goals: gain hands-on experience as a **working student in AI engineering**, improve at **writing robust and scalable code**, learn **team-oriented software development**, and deepen my understanding of **cloud infrastructure**.
 
 - 🚀 Always curious — always building.
