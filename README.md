@@ -31,7 +31,7 @@
 
 ## 📌 Project Highlights
 
-### 🔥 <a href="https://github.com/niels-2005/RottenBot" target="_blank">RottenBot — Deep Learning System with Observability</a>  
+### 🔥 [RottenBot — Deep Learning System with Observability](https://github.com/niels-2005/RottenBot)  
 A production-style Deep Learning system for image classification,  
 built with **TensorFlow, FastAPI, MLflow, Docker, PostgreSQL, Redis, MinIO and Streamlit**.  
 Fully instrumented with **OpenTelemetry** for metrics, logs, and traces.  
@@ -39,7 +39,7 @@ Designed for **scalability**, **observability**, and **clean service separation*
 
 ---
 
-### 🤖 <a href="https://github.com/niels-2005/CoraCustomerAgent" target="_blank">CORA — AI Customer Support Agent</a>  
+### 🤖 [CORA — AI Customer Support Agent](https://github.com/niels-2005/CoraCustomerAgent)  
 An intelligent e-commerce support assistant built with  
 **LangChain, Ollama, Hugging Face embeddings, MCP, Docker, ChromaDB, Redis**, and **Gradio**.  
 Demonstrates **tool-calling LLM agents**, **RAG pipelines**, **semantic caching**,  
