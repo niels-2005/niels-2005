@@ -8,20 +8,42 @@
 
 ---
 
-<h2>
-  <b>About Me</b>
-</h2>
+## 📌 About Me
 
 - 🎓 I'm currently pursuing my **Bachelor’s degree in Artificial Intelligence & Machine Learning**,  
-  planning to continue with a **Master’s in AI & Data Science**.  
-- 🇩🇪 I'm **German-speaking** and passionate about understanding how intelligent systems learn.  
-- 💡 I love learning and creating **software that solves problems**.  
-- 🧠 I'm currently **planning my Bachelor’s thesis**, focusing on building an **agentic LLM learning assistant** that helps students with their study materials.  
-- ⚙️ My main interests include **AI and Software Infrastructure** — learning how to **bring ML and AI systems into production** with scalable, reliable software architectures.  
-- 🤖 Alongside that, I'm finalizing my **RottenBot project**, a multi-service system.  
-- 🚀 Always curious — always building. 
+  and I’m planning to continue with a **Master’s in AI & Data Science** starting **April 2026**.
+
+- 🇩🇪 I’m German-speaking and passionate about **bringing AI systems into the real world** — from model training to scalable, production-ready deployments.
+
+- 🤖 My project experience spans **traditional ML, Data Science, Computer Vision, NLP, backend engineering, and DevOps**.  
+  Long-term, I aim to specialize as an **AI Engineer** with a focus on **LLMs, backend/API development**, and **scalable infrastructure** (Kubernetes, observability, CI/CD).
+
+- 🧠 I'm currently planning my **Bachelor’s thesis**, building an **agentic LLM learning assistant** that helps students understand and work through their study materials.
+
+- 💡 I learn fast, love deep-diving into new systems, and enjoy creating **clean, maintainable software that actually solves problems**.
+
+- 🛠️ My strengths include: **[Platzhalter für Frage 3]**
+
+- 🌱 My next goals: gain hands-on experience as a **working student in AI engineering**, improve at **writing robust and scalable code**, learn **team-oriented software development**, and deepen my understanding of **cloud infrastructure**.
+
+- 🚀 Always curious — always building.
+
 
 ---
+
+## 📌 Project Highlights
+
+### 🔥 RottenBot — Deep Learning System with Observability
+A scalable, production-style ML system for image classification using  
+**TensorFlow, FastAPI, MLflow, Docker, MinIO, PostgreSQL, Redis, JWT**, and full **OpenTelemetry observability**.  
+Focused on **reusability**, **maintainability**, and a **microservice architecture**.
+
+---
+
+### 🤖 CORA — AI Customer Support Agent
+An intelligent e-commerce support assistant built with  
+**LangChain, Ollama, Hugging Face embeddings, MCP, ChromaDB, Redis**, and **Gradio**.  
+Demonstrates **tool-calling LLM agents**, **RAG pipelines**, **semantic caching**, and a clean user interface.
 
 <h2>
   <b>Tech Stack</b>
