@@ -75,12 +75,6 @@
 
 ---
 
-### 🧭 Future Learnings
-
-- [ ] Recommendation Systems  
-- [ ] Time Series Forecasting  
-- [ ] Next.js (especially because TypeScript)
-
 <br><br>
 
 <div align="center">
