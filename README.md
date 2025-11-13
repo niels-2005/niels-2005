@@ -103,11 +103,3 @@ and a clean, responsive user interface.
   ![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 </p>
-
----
-
-<br><br>
-
-<div align="center">
-  <h2><b>Keep Learning. Keep Building. 🚀</b></h2>
-</div>
