@@ -32,7 +32,7 @@
 ## 📌 Project Highlights
 
 ### 🔥 [RottenBot — Deep Learning System with Observability](https://github.com/niels-2005/RottenBot)  
-A production-style Deep Learning system for image classification,  
+A Deep Learning system for image classification,  
 built with **TensorFlow, FastAPI, MLflow, Docker, PostgreSQL, Redis, MinIO and Streamlit**.  
 Fully instrumented with **OpenTelemetry** for metrics, logs, and traces.  
 Designed for **scalability**, **observability**, and **clean service separation**.
