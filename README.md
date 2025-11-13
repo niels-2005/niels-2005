@@ -31,17 +31,19 @@
 
 ## 📌 Project Highlights
 
-### 🔥 RottenBot — Deep Learning System with Observability
-A scalable, production-style ML system for image classification using  
-**TensorFlow, FastAPI, MLflow, Docker, MinIO, PostgreSQL, Redis, JWT**, and full **OpenTelemetry observability**.  
-Focused on **reusability**, **maintainability**, and a **microservice architecture**.
+### 🔥 <a href="https://github.com/niels-2005/RottenBot" target="_blank">RottenBot — Deep Learning System with Observability</a>  
+A production-style Deep Learning system for image classification,  
+built with **TensorFlow, FastAPI, MLflow, Docker, PostgreSQL, Redis, MinIO and Streamlit**.  
+Fully instrumented with **OpenTelemetry** for metrics, logs, and traces.  
+Designed for **scalability**, **observability**, and **clean service separation**.
 
 ---
 
-### 🤖 CORA — AI Customer Support Agent
+### 🤖 <a href="https://github.com/niels-2005/CoraCustomerAgent" target="_blank">CORA — AI Customer Support Agent</a>  
 An intelligent e-commerce support assistant built with  
-**LangChain, Ollama, Hugging Face embeddings, MCP, ChromaDB, Redis**, and **Gradio**.  
-Demonstrates **tool-calling LLM agents**, **RAG pipelines**, **semantic caching**, and a clean user interface.
+**LangChain, Ollama, Hugging Face embeddings, MCP, Docker, ChromaDB, Redis**, and **Gradio**.  
+Demonstrates **tool-calling LLM agents**, **RAG pipelines**, **semantic caching**,  
+and a clean, responsive user interface.
 
 <h2>
   <b>Tech Stack</b>
