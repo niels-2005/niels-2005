@@ -33,7 +33,7 @@
 
 ### 🤖 [CORA — AI Customer Support Agent](https://github.com/niels-2005/CoraCustomerAgent)  
 An intelligent e-commerce support assistant built with  
-**LangChain, Ollama, Hugging Face embeddings, MCP, Docker, ChromaDB, Redis**, and **Gradio**.  
+**LangChain, Ollama, Hugging Face embeddings, FastMCP, Docker, ChromaDB, Redis**, and **Gradio**.  
 Demonstrates **tool-calling LLM agents**, **RAG pipelines**, **semantic caching**,  
 and a clean, responsive user interface.
 
