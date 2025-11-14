@@ -89,7 +89,7 @@ Designed for **scalability**, **observability**, and **clean service separation*
 
 ---
 
-### **Observability**
+### **Observability & Monitoring**
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 ![Alloy](https://img.shields.io/badge/Alloy-FF8800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Grafana Tempo](https://img.shields.io/badge/Tempo-FFB703?style=for-the-badge&logo=grafana&logoColor=white)
