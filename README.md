@@ -16,7 +16,7 @@
 - 🇩🇪 I’m German-speaking and passionate about **bringing AI systems into the real world** — from model training to scalable, production-ready deployments.
 
 - 🤖 My project experience spans **traditional ML, Data Science, Computer Vision, NLP, backend engineering, and DevOps**.  
-  Long-term, I aim to specialize as an **AI Engineer** with a focus on **LLMs, backend/API development**, and **scalable infrastructure** (Kubernetes, observability, CI/CD).
+  Long-term, I aim to specialize as an **AI Engineer** with a focus on **LLMs, **Agentic AI**, backend/API development**, and **scalable infrastructure** (Kubernetes, observability, CI/CD).
 
 - 🧠 I'm currently planning my **Bachelor’s thesis**, building an **agentic LLM learning assistant** that helps students understand and work through their study materials.
 
