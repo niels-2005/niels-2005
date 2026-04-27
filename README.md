@@ -33,11 +33,3 @@
 ### 🤖 [CustomerServiceAgent — Agentic AI Support System](https://github.com/niels-2005/CustomerServiceAgent)
 An end-to-end AI customer support system built with **FastAPI, LlamaIndex, OpenAI/Ollama, ChromaDB, Langfuse, React, and Docker**.
 Demonstrates **agentic retrieval**, **explicit safety guardrails**, **traceable decision flows**, and a modular backend architecture for company-specific support use cases.
-
----
-
-## 🎯 Core Focus
-
-- **LLM applications** with a strong backend and API engineering perspective
-- **Agentic workflows and RAG** for grounded, domain-specific AI systems
-- **Production-oriented AI engineering** with an emphasis on reliability, clarity, and maintainability
