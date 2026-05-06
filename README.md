@@ -32,5 +32,4 @@
 
 ### 🤖 [CustomerServiceAgent — AI Customer Support System](https://github.com/niels-2005/CustomerServiceAgent)
 
-An evaluated AI customer support system built with **FastAPI, LlamaIndex, Redis, ChromaDB, Langfuse, DeepEval, React, and Docker**.  
-Demonstrates **retrieval-first AI architecture**, **agentic workflows**, **safety guardrails**, **observability**, and iterative optimization of latency, reliability, and operational cost.
+An evaluated AI customer support system built with **FastAPI, LlamaIndex, Redis, ChromaDB, Langfuse, DeepEval, React, and Docker**. Demonstrates **retrieval-first AI architecture**, **agentic workflows**, **safety guardrails**, **observability**, and iterative optimization of latency, reliability, and operational cost.
